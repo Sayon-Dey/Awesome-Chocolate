@@ -65,5 +65,5 @@ This project is an interactive Power BI dashboard to analyze chocolate sales per
 
 ## 📬 Contact
 
-LinkedIn: (your link)
-GitHub: (your profile link)
+LinkedIn: https://www.linkedin.com/in/sayon-dey-051b5833a/
+GitHub: https://github.com/Sayon-Dey
